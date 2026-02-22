@@ -32,8 +32,7 @@ This repository contains all solutions developed as part of the **CampusPE Inter
 - **Loops & Conditionals** — `for`, `while`, `if-elif-else` logic
 - **Mathematical Computations** — Arithmetic, algebra, number theory
 - **Text Processing** — String manipulation, slicing, formatting
-- **Statistical Analysis** — Mean, median, mode, variance
-- **Number System Utilities** — Binary, octal, hexadecimal conversions
+- **Statistical Analysis** — Mean, median, mode
 - **Mini Projects** — ATM Simulator, Guessing Game, Calculator, and more
 
 ---
@@ -239,19 +238,19 @@ CampusPe_assignment_2/
 
 ### ⭐ Bonus Question 1 — Sum & Average Calculator (Bonus)
 
-![Bonus Q1](screenshots/pro21.png)
+![Bonus Q1](screenshots/pro13bon.png)
 
 ---
 
 ### ⭐ Bonus Question 2 — Guessing Game (Bonus)
 
-![Bonus Q2](screenshots/pro22.png)
+![Bonus Q2](screenshots/pro16bon.png)
 
 ---
 
 ### ⭐ Bonus Question 3 — Function Calculator (Bonus)
 
-![Bonus Q3](screenshots/pro23.png)
+![Bonus Q3](screenshots/pro18bon.png)
 
 ---
 
