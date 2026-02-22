@@ -1,6 +1,6 @@
 <div align="center">
 
-# 📘 Campus PE Internship Assignment
+#  Campus PE Internship Assignment
 
 ### Python Programming Solutions — Kowshik BH
 
@@ -12,7 +12,7 @@
 
 ---
 
-## 👨‍💻 About This Repository
+##  About This Repository
 
 This repository contains all solutions developed as part of the **CampusPE Internship Assignment**. Each program has been carefully written, tested with multiple input values, and documented with execution screenshots.
 
@@ -25,7 +25,7 @@ This repository contains all solutions developed as part of the **CampusPE Inter
 
 ---
 
-## 🧠 Topics Covered
+## Topics Covered
 
 - **Python Fundamentals** — Variables, data types, operators, I/O
 - **Functions & Modular Programming** — Reusable functions, return values, scope
@@ -74,7 +74,7 @@ CampusPe_assignment_2/
 
 ---
 
-## 📋 Programs Overview
+##  Programs Overview
 
 | # | File | Topic |
 |---|------|-------|
@@ -263,7 +263,7 @@ CampusPe_assignment_2/
 
 ---
 
-## 👨‍💻 Contributor
+##  Contributor
 
 <div align="center">
 
